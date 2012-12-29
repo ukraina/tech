@@ -2,5 +2,3 @@ tech
 ====
 
 tech-story
-
-test
